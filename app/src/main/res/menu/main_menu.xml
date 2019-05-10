@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/wheather"
+        android:orderInCategory="1"
+        android:title="Погода" />
+    <item
+        android:id="@+id/currency"
+        android:orderInCategory="3"
+        android:title="Курсы валют" />
+</menu>
